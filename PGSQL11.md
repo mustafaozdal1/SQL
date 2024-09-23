@@ -1,4 +1,4 @@
-## PROJE 10
+## PROJE 11
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 1-actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
